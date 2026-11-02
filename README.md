@@ -176,32 +176,3 @@ It was observed that each prompting technique has its own advantages and applica
 Among the four techniques, preceding question prompting was found to be suitable for generating detailed explanations, whereas tabular format prompting was effective for presenting structured comparisons. Missing word prompting was particularly useful for educational practice and knowledge assessment.
 
 Thus, the experiment demonstrated the importance of selecting suitable prompting techniques to generate clear, meaningful and well-organized responses using Generative AI.
-
-## PROMPT USED TO GET THE ANSWER
-
-Act as an expert in Prompt Engineering and prepare a detailed college practical experiment record for:
-
-"EX.NO.3 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques."
-
-**Aim:** To write prompts and evaluate their outputs using four prompting techniques:
-
-1. Straightforward Prompting.
-2. Tabular Format Prompting.
-3. Preceding Question Prompting.
-4. Missing Word Prompting.
-
-**Selected Unit 5 Use Case:** AI in Healthcare – Early Disease Detection and Diagnosis.
-
-For each prompting technique:
-
-- Explain its meaning.
-- Provide at least four relevant example prompts.
-- Generate detailed answers based on the prompts.
-- Use suitable examples related to AI in healthcare.
-- Present tabular information wherever necessary.
-
-After explaining all four techniques, include an evaluation table comparing them based on clarity, accuracy, organization, completeness and ease of understanding.
-
-Identify the most suitable prompting technique for generating a detailed report.
-
-Maintain the exact experiment structure with Aim, Explanation, Procedure, Evaluation, Conclusion, Result and Prompt Used to Get the Answer. Use clear, simple, student-friendly English suitable for a college practical record. Do not invent experimental measurements or scores.
